@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd7a573b-e976-4875-9324-ba1327727ecb" name="Changes" comment="completed homework 22">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dumshenko/daniil/maven/Fox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dumshenko/daniil/maven/MySolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dumshenko/daniil/maven/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dumshenko/daniil/maven/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dumshenko/daniil/maven/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dumshenko/daniil/maven/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dumshenko/daniil/maven/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/dumshenko/daniil/maven/AppTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="dd7a573b-e976-4875-9324-ba1327727ecb" name="Changes" comment="completed homework 22" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +59,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "Fox",
+    "git-widget-placeholder": "Car",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -208,7 +198,7 @@
       <workItem from="1730880114885" duration="571000" />
       <workItem from="1730884035887" duration="1923000" />
       <workItem from="1730965930965" duration="27000" />
-      <workItem from="1731015730922" duration="2335000" />
+      <workItem from="1731015730922" duration="2642000" />
     </task>
     <task id="LOCAL-00001" summary="completed homework 22">
       <option name="closed" value="true" />
